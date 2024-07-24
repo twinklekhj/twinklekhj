@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&fontSize=50&text=Twinkle's Hub&color=gradient&animation=fadeIn)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&fontSize=50&text=Twinkle%27s%20Hub&color=gradient&animation=fadeIn)
 
 <br>
 
