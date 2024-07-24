@@ -60,8 +60,8 @@
 </p>
 
 <p align="center">
-![My Skills](https://skillicons.dev/icons?i=java,spring,maven,gradle,eclipse)
-![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap&theme=light)
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,gradle,eclipse&theme=light" /> <br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap&theme=light" />
 </p>
 
 <br>
@@ -72,7 +72,7 @@
     Play Store 및 App Store 배포 경험 有
 </p>
 <p align="center">
-![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,swift,actix)
+    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,swift,actix" />
 </p>
 <br>
 
@@ -84,9 +84,8 @@
 </p>
 
 <p align="center">
-![My Skills](https://skillicons.dev/icons?i=ts,react,redux,webpack,vscode,webstorm)
-
-![My Skills](https://skillicons.dev/icons?i=git,github,githubactions)
+    <img src="https://skillicons.dev/icons?i=ts,react,redux,webpack,vscode,webstorm" /> <br>
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions" />
 </p>
 
 <br>
@@ -97,7 +96,7 @@
 </p>
 
 <p align="center">
-![My Skills](https://skillicons.dev/icons?i=php,mysql,ps,phpstorm)
+<img src="https://skillicons.dev/icons?i=php,mysql,phpstorm,ps" />
 </p>
 
 
